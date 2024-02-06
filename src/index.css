@@ -18,3 +18,7 @@ footer{
     background-color: rgb(223, 199, 168);
     padding: 10px; 
 }
+marquee{
+    margin-top:1rem;
+    font-size:1.5rem;
+}
